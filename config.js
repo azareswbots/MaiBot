@@ -1,7 +1,7 @@
 module.exports = {
     app: {
         px: 'BOT PREFIX',
-        token: 'TOKEN GOES HERE',
+        token: 'MTAyNDA4OTY5MjY2NjM1MTY5Nw.G3_av1.kk26tAcDz30HmYjQksssC4hri8vH4XTuIRw2Mk',
         playing: 'PLAYING STATUS OF THE BOT'
     },
 
